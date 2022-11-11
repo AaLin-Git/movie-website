@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AaLin-Git/movie-website/issues"
   },
-  "homepage": "https://github.com/AaLin-Git/movie-website#readme"
+  "homepage": "https://github.com/AaLin-Git/movie-website#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
 }
