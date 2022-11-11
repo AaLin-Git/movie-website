@@ -1,0 +1,24 @@
+{
+  "name": "movie-project",
+  "version": "1.0.0",
+  "description": "Front-End project",
+  "main": "scripts/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaLin-Git/movie-website.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Alona Kovalchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaLin-Git/movie-website/issues"
+  },
+  "homepage": "https://github.com/AaLin-Git/movie-website#readme"
+}
